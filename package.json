@@ -1,0 +1,13 @@
+{
+    "name": "app",
+    "version": "0.0.0",
+    "description": "Test app for istanbul middleware",
+    "dependencies": {
+        "body-parser": "~1.4.3",
+        "express": "4.x",
+        "hbs": ">=1.0.2",
+        "istanbul-middleware": "*",
+        "mongoose": "^5.12.4",
+        "nopt": "*"
+    }
+}
